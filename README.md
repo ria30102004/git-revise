@@ -1,6 +1,6 @@
 # Day 2
 
-## Main ver
+## Branch ver
 
 ## Topics :
 
