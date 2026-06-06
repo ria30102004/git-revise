@@ -11,8 +11,6 @@
 - tracking changes
 - random new feature added!!
 
-
-
 ### Future Scope :
 
 - More features to be added
@@ -21,4 +19,8 @@
 ## Ria Ambadan
 
 ## June 2026
+
+
+
+## Optimization of the features
 
