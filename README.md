@@ -1,6 +1,6 @@
 # Day 2
 
-## This repository is a practice for git basics and fundamentals
+## Main ver
 
 ## Topics :
 
@@ -19,8 +19,6 @@
 ## Ria Ambadan
 
 ## June 2026
-
-
 
 ## Optimization of the features
 
